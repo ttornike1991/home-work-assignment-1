@@ -1,6 +1,7 @@
 
-Homework assignment
-we have to make something like that with html
+**Homework assignment**
+
+We have to make something like that with html
 
 
 
